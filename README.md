@@ -10,4 +10,4 @@ some small CSS workouts.
 - [New_Year_Countdown](https://ashket980.github.io/CSS-Projeccts/New_Year_Countdown/index.html)
 - [Notes_App](https://ashket980.github.io/CSS-Projeccts/Notes_App/index.html)
 - [Rotating_Nav_Animation](https://ashket980.github.io/CSS-Projeccts/Rotating_Nav_Animation/index.html#)
-- 
+- [Scroll_Animation](https://ashket980.github.io/CSS-Projeccts/Scroll_Animation/index.html)
