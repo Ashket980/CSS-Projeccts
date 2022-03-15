@@ -12,4 +12,4 @@ some small CSS workouts.
 - [Rotating_Nav_Animation](https://ashket980.github.io/CSS-Projeccts/Rotating_Nav_Animation/index.html#)
 - [Scroll_Animation](https://ashket980.github.io/CSS-Projeccts/Scroll_Animation/index.html)
 - [Theme_Clock](https://ashket980.github.io/CSS-Projeccts/Theme_Clock/index.html)
-- 
+- [Typing_Game](https://ashket980.github.io/CSS-Projeccts/Typing_Game/index.html)
