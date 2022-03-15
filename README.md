@@ -6,3 +6,4 @@ some small CSS workouts.
 - [Breakout_Game](https://ashket980.github.io/CSS-Projeccts/Breakout_Game/index.html)
 - [Button_Ripple_Effect](https://ashket980.github.io/CSS-Projeccts/Button_Ripple_Effect/index.html)
 - [Doubleclick_Heart](https://ashket980.github.io/CSS-Projeccts/Doubleclick_Heart/index.html)
+- [Image_Carousel](https://ashket980.github.io/CSS-Projeccts/Image_Carousel/index.html)
