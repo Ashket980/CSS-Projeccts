@@ -7,6 +7,7 @@
 - [Breakout_Game](https://ashket980.github.io/CSS-Projeccts/Breakout_Game/index.html)
 - [Button_Ripple_Effect](https://ashket980.github.io/CSS-Projeccts/Button_Ripple_Effect/index.html)
 - [Doubleclick_Heart](https://ashket980.github.io/CSS-Projeccts/Doubleclick_Heart/index.html)
+- [Expanding Cards](https://ashket980.github.io/CSS-Projeccts/Expanding_Cards/index.html)
 - [Image_Carousel](https://ashket980.github.io/CSS-Projeccts/Image_Carousel/index.html)
 - [New_Year_Countdown](https://ashket980.github.io/CSS-Projeccts/New_Year_Countdown/index.html)
 - [Notes_App](https://ashket980.github.io/CSS-Projeccts/Notes_App/index.html)
