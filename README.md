@@ -5,6 +5,7 @@
 - [3D_Boxes_Bckground](https://ashket980.github.io/CSS-Projeccts/3D_Boxes_Bckground/index.html)
 - [Animated_Countdown](https://ashket980.github.io/CSS-Projeccts/Animated_countdown/index.html)
 - [Background_Slider](https://ashket980.github.io/CSS-Projeccts/Background%20Slider/index.html)
+- [Blurry_Loading](https://ashket980.github.io/CSS-Projeccts/Blurry_Loading/index.html)
 - [Breakout_Game](https://ashket980.github.io/CSS-Projeccts/Breakout_Game/index.html)
 - [Button_Ripple_Effect](https://ashket980.github.io/CSS-Projeccts/Button_Ripple_Effect/index.html)
 - [Doubleclick_Heart](https://ashket980.github.io/CSS-Projeccts/Doubleclick_Heart/index.html)
