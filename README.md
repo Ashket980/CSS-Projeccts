@@ -21,4 +21,3 @@
 - [Sound_Board](https://ashket980.github.io/CSS-Projeccts/Sound_Board/index.html)
 - [Theme_Clock](https://ashket980.github.io/CSS-Projeccts/Theme_Clock/index.html)
 - [Typing_Game](https://ashket980.github.io/CSS-Projeccts/Typing_Game/index.html)
-
