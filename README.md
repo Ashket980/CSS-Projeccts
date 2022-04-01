@@ -16,6 +16,7 @@
 - [Loader_Shapes](https://ashket980.github.io/CSS-Projeccts/Loader_Shapes/index.html)
 - [New_Year_Countdown](https://ashket980.github.io/CSS-Projeccts/New_Year_Countdown/index.html)
 - [Notes_App](https://ashket980.github.io/CSS-Projeccts/Notes_App/index.html)
+- [Parallex_Website](https://ashket980.github.io/CSS-Projeccts/Parallex_Website/index.html)
 - [Rotating_Nav_Animation](https://ashket980.github.io/CSS-Projeccts/Rotating_Nav_Animation/index.html#)
 - [Scroll_Animation](https://ashket980.github.io/CSS-Projeccts/Scroll_Animation/index.html)
 - [Sound_Board](https://ashket980.github.io/CSS-Projeccts/Sound_Board/index.html)
