@@ -3,7 +3,7 @@
 *Some small CSS workouts.*
 
 - [3D_Boxes_Bckground](https://ashket980.github.io/CSS-Projeccts/3D_Boxes_Bckground/index.html)
-- [Animated_SVG]()
+- [Animated_SVG](https://ashket980.github.io/CSS-Projeccts/Animated_SVG/index.html)
 - [Animated_Countdown](https://ashket980.github.io/CSS-Projeccts/Animated_countdown/index.html)
 - [Background_Slider](https://ashket980.github.io/CSS-Projeccts/Background%20Slider/index.html)
 - [Blurry_Loading](https://ashket980.github.io/CSS-Projeccts/Blurry_Loading/index.html)
