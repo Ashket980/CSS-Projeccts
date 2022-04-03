@@ -1,6 +1,6 @@
 # CSS-Projeccts
 
-*Some small CSS workouts.*
+**Some small CSS workouts.**
 
 - [3D_Boxes_Bckground](https://ashket980.github.io/CSS-Projeccts/3D_Boxes_Bckground/index.html)
 - [Animated_SVG](https://ashket980.github.io/CSS-Projeccts/Animated_SVG/index.html)
