@@ -19,7 +19,7 @@
 - [Full_Screen_Image_Slider](https://ashket980.github.io/CSS-Projeccts/Full_Screen_Image_Slider/index.html)
 - [Hoverboard](https://ashket980.github.io/CSS-Projeccts/Hoverboard/index.html)
 - [Image_Carousel](https://ashket980.github.io/CSS-Projeccts/Image_Carousel/index.html)
-- [Kinetic_Loader]()
+- [Kinetic_Loader](https://ashket980.github.io/CSS-Projeccts/Kinetic_Loader/index.html)
 - [Loader_Shapes](https://ashket980.github.io/CSS-Projeccts/Loader_Shapes/index.html)
 - [Memory_Card](https://ashket980.github.io/CSS-Projeccts/Memory_Card/index.html)
 - [Music_Player](https://ashket980.github.io/CSS-Projeccts/Music_Player/index.html)
