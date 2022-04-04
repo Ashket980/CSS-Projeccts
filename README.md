@@ -24,7 +24,7 @@
 - [Music_Player](https://ashket980.github.io/CSS-Projeccts/Music_Player/index.html)
 - [New_Year_Countdown](https://ashket980.github.io/CSS-Projeccts/New_Year_Countdown/index.html)
 - [Notes_App](https://ashket980.github.io/CSS-Projeccts/Notes_App/index.html)
-- []()
+- [Parallax_Background_SVG](https://ashket980.github.io/CSS-Projeccts/Parallax_Background_SVG/index.html)
 - [Parallex_Website](https://ashket980.github.io/CSS-Projeccts/Parallex_Website/index.html)
 - [Rotating_Nav_Animation](https://ashket980.github.io/CSS-Projeccts/Rotating_Nav_Animation/index.html#)
 - [Scroll_Animation](https://ashket980.github.io/CSS-Projeccts/Scroll_Animation/index.html)
