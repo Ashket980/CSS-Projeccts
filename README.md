@@ -1,4 +1,4 @@
-# CSS-Projeccts
+# CSS-Projeccts 👻
 
 **Some small CSS workouts.**
 
